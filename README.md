@@ -1,7 +1,7 @@
 PHP Boilr Template
 ------------------
 
-PHP boilr template for Creads' projects.
+Boilr template to initialize PHP projects.
 
 ## Usage
 
