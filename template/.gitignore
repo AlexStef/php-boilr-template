@@ -1,0 +1,12 @@
+.DS_Store
+bin/
+vendor/
+
+# codeception
+tests/_output/*
+tests/_support/_generated/*
+
+{{ if eq Type "project" -}}
+# composer
+composer.lock
+{{- end }}

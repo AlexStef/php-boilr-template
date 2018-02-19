@@ -1,0 +1,6 @@
+{
+    "name": "{{ VendorName }}",
+    "description": "{{ Description }}",
+    "type": "{{ Type }}",
+    "license": "{{ License }}"
+}

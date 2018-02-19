@@ -1,4 +1,13 @@
 {
+    "VendorName": "creads/my-lib",
+    "Type": [
+        "library",
+        "project",
+        "metapackage",
+        "composer-plugin",
+        "symfony-bundle"
+    ],
+    "Description": "Do not leave this empty",
     "Year": 2018,
     "License": [
         "proprietary",
