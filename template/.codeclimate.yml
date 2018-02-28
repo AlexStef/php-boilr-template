@@ -15,6 +15,9 @@ engines:
       - codecept_debug
   phpcodesniffer:
     enabled: true
+    checks:
+      Generic Files LineLength TooLong:
+        enabled: false
 ratings:
   paths:
   - "**.php"
